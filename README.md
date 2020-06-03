@@ -1,11 +1,10 @@
 # mansystem_ui
 
-> A Vue.js project 
-> this is my first vue project in 2020 April
-> i have learned vue for about half year
-> use element-ui,axios,echart to build a front-end ui system
-> this project start with backend which was in my repository named mansystem using springboot
-> thanks to all my tenc.
+> - A Vue.js project 
+> - this is my first vue project in 2020 April
+> - i have learned vue for about half year using element-ui,axios,echart to build a front-end ui system
+> - this project start with backend which was in my repository named mansystem using springboot
+> - thanks to all my tenc.
 
 
 ## Build Setup
